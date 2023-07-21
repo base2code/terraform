@@ -1,0 +1,10 @@
+ssh-key
+cf-certificate
+.idea
+.env
+terraform-test.iml
+terraform.tfstate
+terraform.tfstate.backup
+.terraform
+
+creds
